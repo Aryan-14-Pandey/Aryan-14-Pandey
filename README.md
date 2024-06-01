@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cloud Computing and DevOps
+- 🌱 I’m currently learning Kubernetes
 
 <!---
 Aryan-14-Pandey/Aryan-14-Pandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
